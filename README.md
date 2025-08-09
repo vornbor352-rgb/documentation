@@ -1,4 +1,4 @@
-# npm Documentation
+# content/packages-and-modules/contributing-packages-to-the-registry/about-package-readme-files.mdxnpm npm
 
 [![Publish](https://github.com/npm/documentation/actions/workflows/publish.yml/badge.svg)](https://github.com/npm/documentation/actions/workflows/publish.yml)
 
